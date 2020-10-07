@@ -1,0 +1,6 @@
+C:\Users\Zerockm\Desktop\Hydra\bin\Debug\Hydra.exe
+C:\Users\Zerockm\Desktop\Hydra\bin\Debug\Hydra.pdb
+C:\Users\Zerockm\Desktop\Hydra\obj\Debug\Hydra.csprojAssemblyReference.cache
+C:\Users\Zerockm\Desktop\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\Zerockm\Desktop\Hydra\obj\Debug\Hydra.exe
+C:\Users\Zerockm\Desktop\Hydra\obj\Debug\Hydra.pdb
